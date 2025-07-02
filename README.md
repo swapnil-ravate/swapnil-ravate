@@ -7,10 +7,10 @@
 - 🛠️ Tech Stack: **React, Node.js, Express, MongoDB, Redux, Tailwind CSS, CSS animations**
 - 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **CSS animations**, or **DSA in JS**.  
 
-📫 Connect with me:
- • [GitHub - https://github.com/swapnil-ravate]
- • [LinkedIn - www.linkedin.com/in/swapnil-ravate] 
- • [Email - swwapnilrvte@gmail.com]
+📫 Connect with me :
+- [GitHub - https://github.com/swapnil-ravate]
+- [LinkedIn - www.linkedin.com/in/swapnil-ravate]
+- [Email - swwapnilrvte@gmail.com]
 
 ⚡ Fun fact: I code in Hinglish—“chalega!” 😉
 
