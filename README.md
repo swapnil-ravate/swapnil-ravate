@@ -1,8 +1,27 @@
 # Hey, I'm Swapnil 👋
 
-**MERN Stack Developer | JS DSA Enthusiast | Open to Internships**
+🚀 MERN Stack Developer | 💡 JavaScript DSA Learner | 🌱 Exploring AI/ML & DevOps  
 
-- 🔭 Currently working on MERN projects and mastering algorithms in JS
-- 🛠️ Tech Stack: React, Node.js, Express, MongoDB, Redux, Tailwind CSS
-- 💬 Ask me about React patterns, REST APIs, DSA in JS
-- 📫 Reach me: [LinkedIn - www.linkedin.com/in/swapnil-ravate] • [Email - swwapnilrvte@gmail.com]
+- 🔭 Currently working on MERN projects.
+- 🧠 Focused on logic building & problem solving (DSA in JS)  
+- 🛠️ Tech Stack: **React, Node.js, Express, MongoDB, Redux, Tailwind CSS, CSS animations**
+- 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **CSS animations**, or **DSA in JS**.  
+
+📫 Connect with me:
+ • GitHub: [swapnil‑ravate](https://github.com/swapnil-ravate)  
+ • LinkedIn: [www.linkedin.com/in/swapnil-ravate]  
+ • Email : [swwapnilrvte@gmail.com]
+
+⚡ Fun fact: I code in Hinglish—“chalega!” 😉
+
+---
+
+### 🔧 Tech Stack
+
+| Frontend        | Backend         | Database     | Others                     |
+|------------------|------------------|----------------|----------------------------|
+| React, HTML, CSS, JS | Node.js, Express | MongoDB        | Git, GitHub, VSCode, Postman |
+
+---
+
+
