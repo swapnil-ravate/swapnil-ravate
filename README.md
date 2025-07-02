@@ -12,6 +12,5 @@
 - [LinkedIn - www.linkedin.com/in/swapnil-ravate]
 - [Email - swwapnilrvte@gmail.com]
 
-⚡ Fun fact: I code in Hinglish—“chalega!” 😉
-
+---
 ---
