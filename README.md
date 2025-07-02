@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on MERN projects.
 - 🧠 Focused on logic building & problem solving (DSA in JS)  
-- 🛠️ Tech Stack: **React, Node.js, Express, MongoDB, Redux, Tailwind CSS, CSS animations**
+- 🛠️ Tech Stack: **React, Node.js, Express, MongoDB, Redux, Tailwind CSSs**
 - 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **CSS animations**, or **DSA in JS**.  
 
 📫 Connect with me :
