@@ -8,20 +8,10 @@
 - 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **CSS animations**, or **DSA in JS**.  
 
 📫 Connect with me:
- • GitHub: [swapnil‑ravate](https://github.com/swapnil-ravate)  
- • LinkedIn: [www.linkedin.com/in/swapnil-ravate]  
- • Email : [swwapnilrvte@gmail.com]
+ • GitHub   : [swapnil‑ravate](https://github.com/swapnil-ravate)  
+ • LinkedIn : [www.linkedin.com/in/swapnil-ravate]  
+ • Email    : [swwapnilrvte@gmail.com]
 
 ⚡ Fun fact: I code in Hinglish—“chalega!” 😉
 
 ---
-
-### 🔧 Tech Stack
-
-| Frontend        | Backend         | Database     | Others                     |
-|------------------|------------------|----------------|----------------------------|
-| React, HTML, CSS, JS | Node.js, Express | MongoDB        | Git, GitHub, VSCode, Postman |
-
----
-
-
