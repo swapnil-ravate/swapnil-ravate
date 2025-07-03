@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hey, I'm Swapnil👋</h1>
+<h1 style="color:red;">Hey, I'm Swapnil👋</h1>
 
 <h3 align="center">
  🚀 MERN Stack Developer &nbsp;|&nbsp; 💡 JavaScript DSA Learner &nbsp;|&nbsp; 🌱 Exploring AI/ML & DevOps 
@@ -6,12 +6,9 @@
 
 ----
 - 🔭 Currently working on MERN projects.
--  🧠 Focused on logic building & problem solving (DSA in JS)
-## 💻 Tech Stack :
-  🧑‍🍳 Languages & Frameworks : `JavaScript`, `React`, `Node.js`, `Express.js`, `MongoDB`, `Redux`, `Tailwind CSS`, `SCSS`, `Bootstrap`,`HTML` <br>
-  🧪 Tools & Platforms : `Git`, `GitHub`, `Postman`, `Firebase`, `Vercel`, `Netlify`, `VS Code` <br>
-  ☁️ DevOps Learning : `Docker`, `Kubernetes`, `CI/CD`, `GitHub Actions` <br>
-  🤖 AI/ML Learning : `Python`, `Pandas`, `OpenAI API`, `LangChain`, `Prompt Engineering` <br>
+- 🧠 Focused on logic building & problem solving (DSA in JS)
+- 💻 Tech Stack : `JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Redux` `Tailwind CSS` `SCSS` `Bootstrap` `HTML` <br>
+- `Git` `GitHub` `Firebase` `OpenAI API` `Prompt Engineering` <br>
 
 ---
 ### 🌐 Let’s Connect
