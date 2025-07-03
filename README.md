@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hey, I'm Swapnil Ravate 👋</h1>
+<h1 align="center" style="color:red;">Hey, I'm Swapnil👋</h1>
 
 <h3 align="center">
   MERN Stack Developer &nbsp;|&nbsp; JavaScript DSA Learner&nbsp;|&nbsp; AI/ML & DevOps Learner
