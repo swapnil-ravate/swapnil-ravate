@@ -1,7 +1,20 @@
-<!-- Banner -->
+<h1 align="center" style="color:red;">🚀 Swapnil Ravate</h1>
+
+<h3 align="center">
+  MERN Stack Developer &nbsp;|&nbsp; JavaScript DSA Enthusiast &nbsp;|&nbsp; AI/ML & DevOps Learner
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+%26+DevOps;Welcome+to+my+GitHub!+🚀&center=true&vCenter=true&width=500&height=45&color=00FFFF&background=000000&pause=800&multiline=true&font=Fira+Code" />
+  <strong>💼 Open to Internship / Job Opportunities in Pune (Hinjawadi preferred)</strong>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-red?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-DSA-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI%2FML-Learner-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/DevOps-In%20Progress-red?style=for-the-badge&logo=docker" />
+</p>
+
 
 
 
