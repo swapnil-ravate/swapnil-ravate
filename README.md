@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <strong>💼 Open to Internship / Job Opportunities in Pune (Hinjawadi preferred)</strong>
+  <strong>💼 Open to Internship / Job Opportunities In IT.</strong>
 </p>
 
 <p align="center">
@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/DevOps-In%20Progress-red?style=for-the-badge&logo=docker" />
 </p>
 
-
-
-
-<h2 align="center">🚀 MERN Stack | 💻 JavaScript DSA | 🌱 Exploring AI/ML & DevOps</h2>
 
 ---
 
