@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-red?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/JavaScript-DSA-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/AI%2FML-Learner-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/DevOps-In%20Progress-red?style=for-the-badge&logo=docker" />
