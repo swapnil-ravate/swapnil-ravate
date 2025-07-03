@@ -5,11 +5,11 @@
 </h3>
 
 ----
-## 🔭 Currently working on MERN projects.
-## 🧠 Focused on logic building & problem solving (DSA in JS)
+- 🔭 Currently working on MERN projects.
+-  🧠 Focused on logic building & problem solving (DSA in JS)
 ## 💻 Tech Stack :
-  🧑‍🍳 Languages & Frameworks : `JavaScript`, `React`, `Node.js`, `Express.js`, `MongoDB`, `Redux`, `Tailwind CSS`, `SCSS`, `Bootstrap` <br>
-  🧪 Tools & Platforms : `Git`, `GitHub`, `Postman`, `Firebase`, `Render`, `Vercel`, `Netlify`, `VS Code` <br>
+  🧑‍🍳 Languages & Frameworks : `JavaScript`, `React`, `Node.js`, `Express.js`, `MongoDB`, `Redux`, `Tailwind CSS`, `SCSS`, `Bootstrap`,`HTML` <br>
+  🧪 Tools & Platforms : `Git`, `GitHub`, `Postman`, `Firebase`, `Vercel`, `Netlify`, `VS Code` <br>
   ☁️ DevOps Learning : `Docker`, `Kubernetes`, `CI/CD`, `GitHub Actions` <br>
   🤖 AI/ML Learning : `Python`, `Pandas`, `OpenAI API`, `LangChain`, `Prompt Engineering` <br>
 
