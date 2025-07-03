@@ -1,5 +1,9 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+%26+DevOps;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+<!-- Typing SVG (Working Alternative) -->
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+and+DevOps;Welcome+to+my+GitHub!+🚀&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000" />
+</p>
+
 
 <h2 align="center">🚀 MERN Stack | 💻 JavaScript DSA | 🌱 Exploring AI/ML & DevOps</h2>
 
