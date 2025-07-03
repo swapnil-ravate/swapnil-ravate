@@ -4,10 +4,6 @@
   MERN Stack Developer &nbsp;|&nbsp; JavaScript DSA Learner&nbsp;|&nbsp; AI/ML & DevOps Learner
 </h3>
 
-<p align="center">
-  <strong>💼 Open to Internship / Job Opportunities In IT.</strong>
-</p>
-
 ---
 
 ### 🛠 Tech Toolbox
