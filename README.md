@@ -1,8 +1,8 @@
 <!-- Banner -->
-<!-- Typing SVG (Working Alternative) -->
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+and+DevOps;Welcome+to+my+GitHub!+🚀&center=true&width=550&height=50&color=#FF0000&vCenter=true&pause=1100" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+%26+DevOps;Welcome+to+my+GitHub!+🚀&center=true&vCenter=true&width=500&height=45&color=00FFFF&background=000000&pause=800&multiline=true&font=Fira+Code" />
 </p>
+
 
 
 <h2 align="center">🚀 MERN Stack | 💻 JavaScript DSA | 🌱 Exploring AI/ML & DevOps</h2>
