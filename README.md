@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Typing SVG (Working Alternative) -->
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+and+DevOps;Welcome+to+my+GitHub!+🚀&center=true&width=550&height=50&color=red&vCenter=true&pause=900" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hey+I'm+Swapnil+Ravate;MERN+Stack+Developer;JavaScript+DSA+Enthusiast;Exploring+AI%2FML+and+DevOps;Welcome+to+my+GitHub!+🚀&center=true&width=550&height=50&color=#FF0000&vCenter=true&pause=1100" />
 </p>
 
 
