@@ -1,7 +1,7 @@
 <h1 align="center" style="color:red;">Hey, I'm Swapnil👋</h1>
 
 <h3 align="center">
- 🚀 MERN Stack Developer &nbsp;|&nbsp; JavaScript DSA Learner &nbsp;|&nbsp; Exploring AI/ML & DevOps 
+  `🚀  MERN Stack Developer   &nbsp;|&nbsp; JavaScript DSA Learner &nbsp;|&nbsp; Exploring AI/ML & DevOps`
 </h3>
 
 ----
