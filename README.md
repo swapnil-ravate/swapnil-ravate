@@ -4,6 +4,7 @@
 
 ### Full Stack Developer | AI/ML Enthusiast | Problem Solver
 
+## 📫 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://swapnilwebcv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swapnil-ravate)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:swapnilravate02@gmail.com)
@@ -71,16 +72,6 @@ const swapnil = {
 };
 ```
 
----
-
-## 📫 Let's Connect
-
-- 💼 Portfolio: [Visit My Portfolio](https://swapnilwebcv.vercel.app/)
-- [in] LinkedIn: [Connect](https://www.linkedin.com/in/swapnil-ravate)
-- 📧 Email: swapnilravate02@gmail.com
-- 💬 Open to collaborating on interesting projects!
-
----
 <p align="center">
   <em>"Code. Learn. Evolve. Repeat. 🚀"</em>
 </p>
