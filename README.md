@@ -14,8 +14,8 @@
 ### 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-ravate)   &nbsp; &nbsp;
-[![Gmail](https://img.shields.io/badge/-swapnilrvte@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:swapnilrvte@gmail.com)   &nbsp; &nbsp;
-[![Portfolio](https://img.shields.io/badge/-MyPortfolio-black?style=flat-square&logo=vercel)](-)  &nbsp; &nbsp;
+[![Gmail](https://img.shields.io/badge/-swapnilrvte@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:swapnilravate02@gmail.com)   &nbsp; &nbsp;
+[![Portfolio](https://img.shields.io/badge/-MyPortfolio-black?style=flat-square&logo=vercel)](https://swapnilwebcv.vercel.app)  &nbsp; &nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/swapnil-ravate) &nbsp; &nbsp;
 
 ---
