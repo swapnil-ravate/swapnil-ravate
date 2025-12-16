@@ -54,22 +54,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```javascript
-const swapnil = {
-    currentlyWorking: "MERN Stack Projects",
-    learning: ["AI/ML", "Data Science", "GenAI", "DSA with JavaScript"],
-    skills: {
-        frontend: ["React", "Redux", "Tailwind CSS", "JavaScript"],
-        backend: ["Node.js", "Express.js", "MongoDB"],
-        aiml: ["Python", "TensorFlow", "OpenAI API", "LangChain"],
-        other: ["Git", "Firebase", "Problem Solving"]
-    },
-    goals: "Building scalable applications and mastering AI/ML"
-};
-```
-
 <p align="center">
   <em>"Code. Learn. Evolve. Repeat. 🚀"</em>
 </p>
