@@ -2,7 +2,7 @@
 
 # Hey, I'm Swapnil 👋
 
-### Full Stack Developer | AI Enthusiast | Problem Solver
+### Full Stack Developer | Generative AI Enthusiast | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://swapnilwebcv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swapnil-ravate)
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-- 💻 **MERN Stack Developer** building modern, scalable web applications
-- 🤖 Expanding into **AI** - currently learning Python and GenAI
-- 🧠 Passionate about **DSA** and **problem-solving** with JavaScript
-- 🔭 Working on full-stack projects with React, Node.js, and MongoDB
-- 🌱 Always learning and exploring new technologies
+- 💻 **MERN Stack Developer** building modern, scalable web applications  
+- 🤖 Exploring **Generative AI** and integrating AI features into web apps  
+- 🧠 Passionate about **DSA** and problem-solving with JavaScript  
+- 🔭 Building full-stack and AI-powered projects using React, Node.js, and Python  
+- 🌱 Continuously learning **LLMs, prompt engineering, and AI integrations**
 
 ---
 
@@ -38,9 +38,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### AI
+### 🧠 Generative AI & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat)
+
+- Building AI-powered features such as chatbots, content generation, and automation tools  
+- Learning about LLM APIs, embeddings, and AI system design
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -48,6 +53,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+## 🤖 Current Focus
+
+- Integrating **LLMs** into full-stack applications  
+- Building AI chat interfaces and automation tools  
+- Exploring **vector databases, RAG, and AI workflows**
 
 ---
 
