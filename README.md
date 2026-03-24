@@ -53,12 +53,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-#### 🤖 AI Developer Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat)
 ![Claude](https://img.shields.io/badge/Claude-FF6B00?style=flat)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat)
-![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat)
 
 ---
 
