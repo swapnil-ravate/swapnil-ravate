@@ -2,7 +2,7 @@
 
 # Hey, I'm Swapnil 👋
 
-### Full Stack Developer | Generative AI Enthusiast | Problem Solver
+### Full Stack Developer building AI-powered web applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://swapnilwebcv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swapnil-ravate)
@@ -53,9 +53,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6B00?style=flat)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat)
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-000000)
+![Cursor](https://img.shields.io/badge/Cursor-AI-000000)
 ---
 
 ## 🤖 Current Focus
@@ -64,6 +64,12 @@
 - Building AI chat interfaces and automation tools  
 - Exploring **vector databases, RAG, and AI workflows**
 
+---
+## 📊 GitHub Stats
+
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 ---
 
 <p align="center">
