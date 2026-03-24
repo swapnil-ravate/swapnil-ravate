@@ -63,12 +63,6 @@
 - Integrating **LLMs** into full-stack applications  
 - Building AI chat interfaces and automation tools  
 - Exploring **vector databases, RAG, and AI workflows**
-
----
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swapnil-ravate&theme=tokyonight" alt="GitHub Streak" />
-</p>
 ---
 
 <p align="center">
