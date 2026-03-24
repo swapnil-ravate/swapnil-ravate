@@ -2,7 +2,7 @@
 
 # Hey, I'm Swapnil 👋
 
-### Full Stack Developer | AI/ML Enthusiast | Problem Solver
+### Full Stack Developer | AI Enthusiast | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://swapnilwebcv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swapnil-ravate)
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 💻 **MERN Stack Developer** building modern, scalable web applications
-- 🤖 Expanding into **AI/ML & Data Science** - currently learning Python, TensorFlow, and GenAI
+- 🤖 Expanding into **AI** - currently learning Python and GenAI
 - 🧠 Passionate about **DSA** and **problem-solving** with JavaScript
 - 🔭 Working on full-stack projects with React, Node.js, and MongoDB
 - 🌱 Always learning and exploring new technologies
@@ -38,11 +38,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### AI/ML & Data Science
+### AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ### Tools & Others
