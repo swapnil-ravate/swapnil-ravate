@@ -67,9 +67,16 @@
 ---
 ## 📊 GitHub Stats
 
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnil-ravate&show_icons=true&theme=tokyonight" alt="Swapnil's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-ravate&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swapnil-ravate&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 <p align="center">
